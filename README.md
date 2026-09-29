@@ -5,13 +5,15 @@ Ohjelmoinnin perusteiden harjoitus 5
 
 Täydennä tähän:
 
-- Nimi
-- Ryhmä
+- Atte
+- intkm26a2
 
-## Projektin kuvaus
+## Projektin kuvaus FoCar
 
-Kirjoita tähän projektin kuvaus.
+Kyseisessä projektissa kasaamme 3D tulostetun auton erillaisilla osilla ja saada se liikkumaan python koodin avulla.
+Projektiin käytetään kahta moottoria, arduino pico W:tä ja moottorinohjainta.
 
 ## Käyttöohje
 
 Kirjoita tähän käyttöohjeet.
+Käyttämällä visualstudio codea ja kirjoittamalla pythonia voidaan opettaa pico ohjaamaan ajoneuvoa eri tavalla.
